@@ -1,3 +1,2 @@
 *.csv
-!artists.csv
-!tracks.csv
+!SpotifyFeatures.csv
