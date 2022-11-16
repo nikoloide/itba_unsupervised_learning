@@ -1,4 +1,8 @@
-# itba_unsupervised_learning
+# :musical_note: Spotify Analytics
+
+:headphones: Dimensionality reduction and Clustering tracks with Spotify Data
+
+**Tracks metrics**:
 
 - **Acousticness:** Numerical, Confidence measure from 0.0 to 1.0 of whether the track is acoustic. 1.0 represents high confidence the track is acoustic.
 - **Danceability:** Numerical, danceability describes how suitable a track is for dancing based on a combination of musical elements including tempo, rhythm stability, beat strength, and overall regularity. A value of 0.0 is least danceable and 1.0 is most danceable.
